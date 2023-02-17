@@ -92,12 +92,3 @@ Docker Hub Repo: https://hub.docker.com/r/subangkar/foodsquare
 ![Add Items](https://raw.githubusercontent.com/Subangkar/Foodsquare-Web-App/master/Foodsquare_Screenshots/additem.png?token=AHSCFFQ2SC7HM7GV5FJBBEC7HALMK)
 
 
-
-***Manage and Accept Orders***
-![Manage and Accept Orders](https://raw.githubusercontent.com/Subangkar/Foodsquare-Web-App/master/Foodsquare_Screenshots/accept_branch.png?token=AHSCFFUV6AGWFLXQIMFCX427HAMPG)
-
-
-
-
-***Please, find the detailed report and manual of this project*** @[FoodSquare-Report](https://github.com/Subangkar/Foodsquare-Web-App/blob/master/FoodSquareReport.pdf)
-
